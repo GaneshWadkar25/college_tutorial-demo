@@ -1,4 +1,4 @@
 # college_tutorial-demo
 This is my First demo git Repository.
 <br/>
-Author - Ganesh Wadkar
+Author - Ganesh Dattatray Wadkar
